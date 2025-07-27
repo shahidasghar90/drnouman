@@ -1,26 +1,26 @@
 {
-    "name": "Roy Sheppard",
+    "name": "Muhammad Nouman Shafique",
     "profilePictureUrl": "images/pictures/avatar.jpg",
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "credits": "Designed by <strong><a href='#'>Shahid Asghar</a></strong>",
+            "role": "Doctorate Researcher"
         },
 
         "es": {
-            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "Hecho por <strong><a href='#'>Ryan Balieiro</a></strong>",
             "role": "Designer de UX"
         },
 
         "fr": {
-            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "Conçu par <strong><a href='#'>Ryan Balieiro</a></strong>",
             "role": "Designer UX"
         },
 
         "zh": {
             "name": "罗伊谢帕德",
-            "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "设计：<strong><a href='#'>Ryan Balieiro</a></strong>",
             "role": "用户体验设计师"
         }
     },
@@ -32,8 +32,8 @@
             "href": null,
             "locales": {
                 "en": {
-                    "value": "123 Main Street, Cupertino, CA 01234",
-                    "valueShort": "Cupertino – CA"
+                    "value": "Aveiro Portugal",
+                    "valueShort": "Purtugal – Aveiro"
                 },
                 "es": {
                     "valueShort": "California – EE.UU."
@@ -49,40 +49,40 @@
 
         {
             "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
+            "value": "shafique@ua.pt",
+            "valueShort": "shafique@ua.pt",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com"
+            "href": "mailto:shafique@ua.pt"
         },
 
         {
             "id": "facebook",
-            "value": "Roy Sheppard",
-            "valueShort": "Roy S.",
+            "value": "Nouman Shafique",
+            "valueShort": "Nouman S.",
             "faIcon": "fa-brands fa-facebook",
             "href": "https://facebook.com"
         },
 
         {
             "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@NoumanShafique",
+            "valueShort": "@NoumanShafique",
             "faIcon": "fa-brands fa-github",
             "href": "https://github.com"
         },
 
         {
             "id": "instagram",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@NoumanShafique",
+            "valueShort": "@NoumanShafique",
             "faIcon": "fa-brands fa-instagram",
             "href": "https://instagram.com"
         },
 
         {
             "id": "linkedin",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@NoumanShafique",
+            "valueShort": "@NoumanShafique",
             "faIcon": "fa-brands fa-linkedin",
             "href": "https://linkedin.com"
         },
